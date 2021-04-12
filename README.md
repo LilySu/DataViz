@@ -27,7 +27,7 @@
 ### Major Roads in NYC - Truck Routes Dataset from NYC Open Data Portal
 ![pastel_truck_routes](https://github.com/LilySu/DataViz/blob/master/Census/Truck_Routes_NYC.png?raw=true)
 
-![truck_routes](https://github.com/LilySu/DataViz/blob/master/Census/Truck_Routes_NYC3857.png?raw=true)
+![truck_routes](https://github.com/LilySu/DataViz/blob/master/Census/Truck_Routes_NYC_epsg3857.png?raw=true)
 
 ![truck_routes_projection1](https://raw.githubusercontent.com/LilySu/DataViz/master/Census/Truck_Routes_NYC_equal_area.png)
 
