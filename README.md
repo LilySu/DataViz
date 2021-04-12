@@ -24,6 +24,13 @@
 ### Motor Vehicle Death in a 6-month Span
 <img src="https://miro.medium.com/max/543/1*Tbb62F30v1_-JyVAFOwXsw.png">
 
+### NYC Building Number of Floors by ZipCode Population Count
+![num floors by population neighborhood nyc](https://github.com/LilySu/DataViz/blob/master/Census/ZipCodes_Tax_monochrome.png)
+
+
+### NYC Building Number of Floors by ZipCode Population Count Recolored
+![num floors by population neighborhood nyc](https://github.com/LilySu/DataViz/blob/master/Census/ZipCodes_red_yellows_on_green_pink.png)
+
 ### NYC Building Number of Floors by ZipCode
 ![num floors by zip code nyc](https://github.com/LilySu/DataViz/blob/master/Census/ZipCodes.png?raw=true)
 
