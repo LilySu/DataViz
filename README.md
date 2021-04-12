@@ -29,12 +29,9 @@
 
 ![truck_routes](https://github.com/LilySu/DataViz/blob/master/Census/Truck_Routes_NYC3857.png?raw=true)
 
-![truck_routes_projection1]
-(https://github.com/LilySu/DataViz/blob/master/Census/Truck_Routes_NYC_equal_area.png?raw=true)
+![truck_routes_projection1](https://raw.githubusercontent.com/LilySu/DataViz/master/Census/Truck_Routes_NYC_equal_area.png)
 
-![truck_routes_projection_2]
-(https://github.com/LilySu/DataViz/blob/master/Census/Truck_Routes_NYC_project4.png?raw=true)
+![truck_routes_projection_2](https://github.com/LilySu/DataViz/blob/master/Census/Truck_Routes_NYC_project4.png?raw=true)
 
-![truck_routes_projection_3]
-(https://github.com/LilySu/DataViz/blob/master/Census/Truck_Routes_NYC_with_BaseMap.png?raw=true)
+![truck_routes_projection_3](https://github.com/LilySu/DataViz/blob/master/Census/Truck_Routes_NYC_with_BaseMap.png?raw=true)
 
