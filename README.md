@@ -24,3 +24,17 @@
 ![num floors by zip code nyc](https://github.com/LilySu/DataViz/blob/master/Census/ZipCodes.png?raw=true)
 ![num floors by zip code nyc_closeup](https://github.com/LilySu/DataViz/blob/master/Census/Building_Tax_Closeup.png?raw=true)
 
+### Major Roads in NYC - Truck Routes Dataset from NYC Open Data Portal
+![pastel_truck_routes](https://github.com/LilySu/DataViz/blob/master/Census/Truck_Routes_NYC.png?raw=true)
+
+![truck_routes](https://github.com/LilySu/DataViz/blob/master/Census/Truck_Routes_NYC3857.png?raw=true)
+
+![truck_routes_projection1]
+(https://github.com/LilySu/DataViz/blob/master/Census/Truck_Routes_NYC_equal_area.png?raw=true)
+
+![truck_routes_projection_2]
+(https://github.com/LilySu/DataViz/blob/master/Census/Truck_Routes_NYC_project4.png?raw=true)
+
+![truck_routes_projection_3]
+(https://github.com/LilySu/DataViz/blob/master/Census/Truck_Routes_NYC_with_BaseMap.png?raw=true)
+
