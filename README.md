@@ -31,11 +31,11 @@
 ### NYC Building Number of Floors by ZipCode Population Count Recolored
 ![num floors by population neighborhood nyc](https://github.com/LilySu/DataViz/blob/master/Census/ZipCodes_red_yellows_on_green_pink.png)
 
-### NYC Building Number of Floors by ZipCode
+### ZipCode Outline with Location Overlay
 ![num floors by zip code nyc](https://github.com/LilySu/DataViz/blob/master/Census/ZipCodes.png?raw=true)
 
 ### NYC Building Number of Floors by Location in Mid-to-Lower Manhattan
-![num floors by zip code nyc_closeup](https://github.com/LilySu/DataViz/blob/master/Census/Building_Tax_Closeup.png?raw=true)
+![num floors by zip code nyc_closeup](https://github.com/LilySu/DataViz/blob/master/Census/ZipCodes_Tax_monochrome_Closeup_No_background.png)
 
 ### Major Roads in NYC - Truck Routes Dataset from NYC Open Data Portal
 ![pastel_truck_routes](https://github.com/LilySu/DataViz/blob/master/Census/Truck_Routes_NYC.png?raw=true)
