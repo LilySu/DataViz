@@ -34,6 +34,9 @@
 ### ZipCode Outline with Location Overlay
 ![num floors by zip code nyc](https://github.com/LilySu/DataViz/blob/master/Census/ZipCodes.png?raw=true)
 
+### Population by Census Neighborhood Tabulation Area 2020 and Truck Routes
+https://github.com/LilySu/DataViz/blob/master/DSNY_Priority_roadwaytyp_1_2020.png
+
 ### NYC Building Number of Floors by Location in Mid-to-Lower Manhattan
 ![num floors by zip code nyc_closeup](https://github.com/LilySu/DataViz/blob/master/Census/ZipCodes_Tax_monochrome_Closeup_No_background.png)
 
