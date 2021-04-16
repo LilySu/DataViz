@@ -54,3 +54,6 @@
 ### Routes using Contextily Base Maps
 ![truck_routes_projection_3](https://github.com/LilySu/DataViz/blob/master/Census/Truck_Routes_NYC_with_BaseMap.png?raw=true)
 
+### New York State Counties and towns
+![New York State Counties and towns](https://github.com/LilySu/DataViz/blob/master/NYS_Counties_and_Townss.png?raw=true)
+
