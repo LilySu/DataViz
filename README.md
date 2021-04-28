@@ -34,6 +34,12 @@
 ### ZipCode Outline with Location Overlay
 ![num floors by zip code nyc](https://github.com/LilySu/DataViz/blob/master/Census/ZipCodes.png?raw=true)
 
+### Building Permits and Roads Austin Metro Area
+![building_permits_Austin](https://github.com/LilySu/DataViz/blob/master/Austin/Service_Area_Transit_Hubs_and_BuildingPermits.png?raw=true)
+
+### Transit Services Austin Metro Area
+![Transit Services_Austin](https://github.com/LilySu/DataViz/blob/master/Austin/Service_Area_Transit_Hubs_and_Bus_Stops.png?raw=true)
+
 ### Population by Census Neighborhood Tabulation Area 2020 and Truck Routes
 ![Population_Show_Size](https://github.com/LilySu/DataViz/blob/master/DSNY_Priority_roadwaytyp_1_2020.png)
 
