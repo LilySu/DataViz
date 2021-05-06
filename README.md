@@ -1,6 +1,6 @@
 ## Data Visualization Projects
 
-### From the Open Data NYC Portal
+### From the Open Data NYC Porta l
 
 [Link to One of Many Medium Articles](https://medium.com/@lilysu/3-things-you-probably-didnt-know-about-municipal-services-in-nyc-6ce3691a50d)
 
